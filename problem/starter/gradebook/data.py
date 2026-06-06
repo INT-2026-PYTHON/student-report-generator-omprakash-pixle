@@ -19,3 +19,5 @@ RECORDS: list[dict] = [
     {"name": "Diana",   "subject": "Science", "score": 70},
     {"name": "Diana",   "subject": "English", "score": 65},
 ]
+subjects=["math","science","english"]
+pass_marks=40
